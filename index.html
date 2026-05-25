@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Soufflet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="lang-switch">
+            <button type="button" class="lang-btn active" data-lang="fr">FR 🇫🇷</button>
+            <button type="button" class="lang-btn" data-lang="en">EN 🇬🇧</button>
+        </div>
+        <h1 id="app-title">🔥 Le Soufflet 🔥</h1>
+        <div id="loading">Chargement...</div>
+        <div id="app-content" style="display: none;">
+            <h2 class="section-title" id="title-order">1. Commande</h2>
+            <div class="tabs">
+                <button type="button" class="tab-btn active" data-category="vendre" id="tab-all">Tout</button>
+                <button type="button" class="tab-btn" data-category="trim" id="tab-trim">Trim</button>
+                <button type="button" class="tab-btn" data-category="livre" id="tab-books">Livres</button>
+            </div>
+            <div class="custom-dropdown">
+                <input type="text" id="item-input" placeholder="-- Taper pour chercher un objet --" autocomplete="off">
+                <div id="options-container" class="options-container" style="display: none;"></div>
+            </div>
+            <div id="result" style="display: none;">
+                <h3 id="label-invoice-details">Facture :</h3>
+                <ul id="bill-details"></ul>
+                <p id="total-price-container">
+                    <strong id="label-total-price">Prix converti :</strong><br><span id="total-readable"></span>
+                </p>
+            </div>
+            <h2 class="section-title" id="title-balance">2. Balance</h2>
+            <div class="grid" id="calculator-grid"></div>
+            <div id="payment-status">
+                Sélectionne un objet pour commencer le calcul.
+            </div>
+        </div>
+    </div>
+    <footer id="app-footer">
+        Conçu pour les Verteluniens.
+    </footer>
+    <script src="index.js"></script>
+</body>
+
+</html>

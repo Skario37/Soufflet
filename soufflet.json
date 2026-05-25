@@ -1,0 +1,2738 @@
+{
+    "Livres": [
+        {
+            "name": "Affinité Aquatique",
+            "name_en": "Aqua Affinity",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Infinité",
+            "name_en": "Infinity",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Tir multiple",
+            "name_en": "Multi-Shot",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Aura de feu",
+            "name_en": "Fire Aspect",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 9
+                }
+            ]
+        },
+        {
+            "name": "Toucher de soie",
+            "name_en": "Silk Touch",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "name": "Fortune",
+            "name_en": "Fortune",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 12
+                }
+            ]
+        },
+        {
+            "name": "Épines",
+            "name_en": "Thorns",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 12
+                }
+            ]
+        },
+        {
+            "name": "Appât",
+            "name_en": "Lure",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 13
+                }
+            ]
+        },
+        {
+            "name": "Canalisation",
+            "name_en": "Channeling",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 16
+                }
+            ]
+        },
+        {
+            "name": "Empalement",
+            "name_en": "Impaling",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 17
+                }
+            ]
+        },
+        {
+            "name": "Flamme",
+            "name_en": "Flame",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 19
+                }
+            ]
+        },
+        {
+            "name": "Agilité aquatique",
+            "name_en": "Depth Strider",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 20
+                }
+            ]
+        },
+        {
+            "name": "Recul",
+            "name_en": "Knockback",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 20
+                }
+            ]
+        },
+        {
+            "name": "Châtiment",
+            "name_en": "Smite",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 20
+                }
+            ]
+        },
+        {
+            "name": "Protection contre les explosions",
+            "name_en": "Blast Protection",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 21
+                }
+            ]
+        },
+        {
+            "name": "Charge rapide",
+            "name_en": "Quick Charge",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 21
+                }
+            ]
+        },
+        {
+            "name": "Élan",
+            "name_en": "Lunge",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 22
+                }
+            ]
+        },
+        {
+            "name": "Protection contre les projectiles",
+            "name_en": "Projectile Protection",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 22
+                }
+            ]
+        },
+        {
+            "name": "Tranchant",
+            "name_en": "Sharpness",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 22
+                }
+            ]
+        },
+        {
+            "name": "Fléau des arthropodes",
+            "name_en": "Bane of Arthropods",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 23
+                }
+            ]
+        },
+        {
+            "name": "Efficacité",
+            "name_en": "Efficiency",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 23
+                }
+            ]
+        },
+        {
+            "name": "Frappe",
+            "name_en": "Punch",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 24
+                }
+            ]
+        },
+        {
+            "name": "Solidité",
+            "name_en": "Unbreaking",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 24
+                }
+            ]
+        },
+        {
+            "name": "Butin",
+            "name_en": "Looting",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 26
+                }
+            ]
+        },
+        {
+            "name": "Impulsion",
+            "name_en": "Riptide",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 27
+                }
+            ]
+        },
+        {
+            "name": "Perforation",
+            "name_en": "Piercing",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 29
+                }
+            ]
+        },
+        {
+            "name": "Malédiction du lien éternel",
+            "name_en": "Curse of Binding",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "name": "Chance de la mer",
+            "name_en": "Luck of the Sea",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "name": "Apnée",
+            "name_en": "Respiration",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "name": "Malédiction de disparition",
+            "name_en": "Curse of Vanishing",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "name": "Protection contre le feu",
+            "name_en": "Fire Protection",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "name": "Raccommodage",
+            "name_en": "Mending",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "name_en": "Protection",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 34
+                }
+            ]
+        },
+        {
+            "name": "Semelles givrantes",
+            "name_en": "Frost Walker",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 36
+                }
+            ]
+        },
+        {
+            "name": "Affilage",
+            "name_en": "Sweeping Edge",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 36
+                }
+            ]
+        },
+        {
+            "name": "Loyauté",
+            "name_en": "Loyalty",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 39
+                }
+            ]
+        },
+        {
+            "name": "Densité",
+            "name_en": "Density",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 40
+                }
+            ]
+        },
+        {
+            "name": "Puissance",
+            "name_en": "Power",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 40
+                }
+            ]
+        },
+        {
+            "name": "Chute amortie",
+            "name_en": "Feather Falling",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 43
+                }
+            ]
+        },
+        {
+            "name": "Brèche",
+            "name_en": "Breach",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 58
+                }
+            ]
+        },
+        {
+            "name": "Agilité des âmes",
+            "name_en": "Soul Speed",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 0
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Furtivité Rapide",
+            "name_en": "Swift Sneak",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 0
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Rafale de vent",
+            "name_en": "Wind Burst",
+            "mat": [
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 0
+                }
+            ],
+            "available": false
+        }
+        
+    ],
+    "Trim": [
+        {
+            "name": "Ornement des sentinelles",
+            "name_en": "Sentry Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des Vex",
+            "name_en": "Vex Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des littoraux",
+            "name_en": "Coast Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des jungles",
+            "name_en": "Wild Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des dunes",
+            "name_en": "Dune Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des éclaireurs",
+            "name_en": "Wayfinder Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des éleveurs",
+            "name_en": "Raiser Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des modeleurs",
+            "name_en": "Shaper Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des hôtes",
+            "name_en": "Host Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des abîmes",
+            "name_en": "Ward Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des marées",
+            "name_en": "Tide Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement du silence",
+            "name_en": "Silence Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des groins",
+            "name_en": "Snout Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des côtes",
+            "name_en": "Rib Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement de l'oeil",
+            "name_en": "Eye Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des tours",
+            "name_en": "Spire Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des tourbillons",
+            "name_en": "Flow Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Ornement des boulons",
+            "name_en": "Bolt Armor Trim",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        },
+        {
+            "name": "Amélioration en Netherite",
+            "name_en": "Netherite Upgrade",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                },
+                {
+                    "name": "Émeraude",
+                    "name_en": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "available": false
+        }
+    ],
+    "Vendre": [
+        {
+            "name": "Pelle en bois",
+            "name_en": "Wooden Shovel",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pelle en pierre",
+            "name_en": "Stone Shovel",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pelle en cuivre",
+            "name_en": "Copper Shovel",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pelle en fer",
+            "name_en": "Iron Shovel",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pelle en or",
+            "name_en": "Golden Shovel",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pelle en diamant",
+            "name_en": "Diamond Shovel",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pelle en Netherite",
+            "name_en": "Netherite Shovel",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en bois",
+            "name_en": "Wooden Pickaxe",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en pierre",
+            "name_en": "Stone Pickaxe",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en cuivre",
+            "name_en": "Copper Pickaxe",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en fer",
+            "name_en": "Iron Pickaxe",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en or",
+            "name_en": "Golden Pickaxe",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en diamant",
+            "name_en": "Diamond Pickaxe",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pioche en Netherite",
+            "name_en": "Netherite Pickaxe",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en bois",
+            "name_en": "Wooden Axe",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en pierre",
+            "name_en": "Stone Axe",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en cuivre",
+            "name_en": "Copper Axe",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en fer",
+            "name_en": "Iron Axe",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en or",
+            "name_en": "Golden Axe",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en diamant",
+            "name_en": "Diamond Axe",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Hache en Netherite",
+            "name_en": "Netherite Axe",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en bois",
+            "name_en": "Wooden Hoe",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en pierre",
+            "name_en": "Stone Hoe",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en cuivre",
+            "name_en": "Copper Hoe",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en fer",
+            "name_en": "Iron Hoe",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en or",
+            "name_en": "Golden Hoe",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en diamant",
+            "name_en": "Diamond Hoe",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Houe en Netherite",
+            "name_en": "Netherite Hoe",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Seau",
+            "name_en": "Bucket",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "name": "Briquet",
+            "name_en": "Flint and Steel",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Charbon",
+                    "name_en": "Coal",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Cisailles",
+            "name_en": "Shears",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Pinceau",
+            "name_en": "Brush",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plume",
+                    "name_en": "Feather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Boussole",
+            "name_en": "Compass",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 4
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Montre",
+            "name_en": "Clock",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 4
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Longue-vue",
+            "name_en": "Spyglass",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Éclat d'améthyste",
+                    "name_en": "Amethyst Shard",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Selle",
+            "name_en": "Saddle",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "name": "Ampoule en cuivre",
+            "name_en": "Copper Bulb",
+            "mat": [
+                {
+                    "name": "Bloc de cuivre",
+                    "name_en": "Block of Copper",
+                    "quantity": 3
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton de Blaze",
+                    "name_en": "Blaze Rod",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Plaque de pression pondérée légère",
+            "name_en": "Light Weighted Pressure Plate",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Plaque de pression pondérée lourde",
+            "name_en": "Heavy Weighted Pressure Plate",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Crochet",
+            "name_en": "Tripwire Hook",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 2
+        },
+        {
+            "name": "Paratonnerre",
+            "name_en": "Lightning Rod",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "name": "Piston",
+            "name_en": "Piston",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 3
+                },
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 4
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Fabricateur",
+            "name_en": "Crafter",
+            "mat": [
+                {
+                    "name": "Établi",
+                    "name_en": "Crafting Table",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 5
+                },
+                {
+                    "name": "Dropper",
+                    "name_en": "Dropper",
+                    "quantity": 1
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Entonnoir",
+            "name_en": "Hopper",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 5
+                },
+                {
+                    "name": "Coffre",
+                    "name_en": "Chest",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Coffre en cuivre",
+            "name_en": "Copper Chest",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 8
+                },
+                {
+                    "name": "Coffre",
+                    "name_en": "Chest",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Jukebox",
+            "name_en": "Jukebox",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 8
+                },
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Chaudron",
+            "name_en": "Cauldron",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Rails",
+            "name_en": "Rail",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 6
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 16
+        },
+        {
+            "name": "Rails de propulsion",
+            "name_en": "Powered Rail",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 6
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 6
+        },
+        {
+            "name": "Rails détecteurs",
+            "name_en": "Detector Rail",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 6
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Plaque de pression en pierre",
+                    "name_en": "Stone Pressure Plate",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 6
+        },
+        {
+            "name": "Rails déclencheurs",
+            "name_en": "Activator Rail",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 6
+                },
+                {
+                    "name": "Torche de redstone",
+                    "name_en": "Redstone Torch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ],
+            "quantity": 6
+        },
+        {
+            "name": "Wagonnet",
+            "name_en": "Minecart",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Porte en fer",
+            "name_en": "Iron Door",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 6
+                }
+            ],
+            "quantity": 2
+        },
+        {
+            "name": "Porte en cuivre",
+            "name_en": "Copper Door",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 6
+                }
+            ],
+            "quantity": 2
+        },
+        {
+            "name": "Trappe en fer",
+            "name_en": "Iron Trapdoor",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Trappe en cuivre",
+            "name_en": "Copper Trapdoor",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Chaîne en fer",
+            "name_en": "Chain",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pépite de fer",
+                    "name_en": "Iron Nugget",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Chaîne en cuivre",
+            "name_en": "Copper Chain",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pépite de cuivre",
+                    "name_en": "Copper Nugget",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Barreau de fer",
+            "name_en": "Iron Bars",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 6
+                }
+            ],
+            "quantity": 16
+        },
+        {
+            "name": "Barreau de cuivre",
+            "name_en": "Copper Grate",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 6
+                }
+            ],
+            "quantity": 16
+        },
+        {
+            "name": "Lanterne",
+            "name_en": "Lantern",
+            "mat": [
+                {
+                    "name": "Pépite de fer",
+                    "name_en": "Iron Nugget",
+                    "quantity": 8
+                },
+                {
+                    "name": "Torche",
+                    "name_en": "Torch",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Lanterne des âmes",
+            "name_en": "Soul Lantern",
+            "mat": [
+                {
+                    "name": "Pépite de fer",
+                    "name_en": "Iron Nugget",
+                    "quantity": 8
+                },
+                {
+                    "name": "Torche des âmes",
+                    "name_en": "Soul Torch",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Lanterne en cuivre",
+            "name_en": "Copper Lantern",
+            "mat": [
+                {
+                    "name": "Pépite de cuivre",
+                    "name_en": "Copper Nugget",
+                    "quantity": 8
+                },
+                {
+                    "name": "Torche de cuivre",
+                    "name_en": "Copper Torch",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Torche de cuivre",
+            "name_en": "Copper Torch",
+            "mat": [
+                {
+                    "name": "Pépite de cuivre",
+                    "name_en": "Copper Nugget",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Charbon",
+                    "name_en": "Coal",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 4
+        },
+        {
+            "name": "Enclume",
+            "name_en": "Anvil",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 4
+                },
+                {
+                    "name": "Bloc de fer",
+                    "name_en": "Block of Iron",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "name": "Tailleur de pierre",
+            "name_en": "Stonecutter",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Roche",
+                    "name_en": "Stone",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "name": "Table de forge",
+            "name_en": "Smithing Table",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Haut fourneau",
+            "name_en": "Blast Furnace",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 5
+                },
+                {
+                    "name": "Roche lisse",
+                    "name_en": "Smooth Stone",
+                    "quantity": 3
+                },
+                {
+                    "name": "Fourneau",
+                    "name_en": "Furnace",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Magnétite",
+            "name_en": "Lodestone",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Roche",
+                    "name_en": "Stone",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Table d'enchantement",
+            "name_en": "Enchanting Table",
+            "mat": [
+                {
+                    "name": "Obsidienne",
+                    "name_en": "Obsidian",
+                    "quantity": 4
+                },
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 2
+                },
+                {
+                    "name": "Livre",
+                    "name_en": "Book",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en bois",
+            "name_en": "Wooden Sword",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en pierre",
+            "name_en": "Stone Sword",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en cuivre",
+            "name_en": "Copper Sword",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en fer",
+            "name_en": "Iron Sword",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en or",
+            "name_en": "Golden Sword",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en diamant",
+            "name_en": "Diamond Sword",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Épée en Netherite",
+            "name_en": "Netherite Sword",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Lance en bois",
+            "name_en": "Wooden Spear",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Lance en pierre",
+            "name_en": "Stone Spear",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Lance en cuivre",
+            "name_en": "Copper Spear",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Lance en fer",
+            "name_en": "Iron Spear",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Lance en or",
+            "name_en": "Golden Spear",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Lance en diamant",
+            "name_en": "Diamond Spear",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Lance en Netherite",
+            "name_en": "Netherite Spear",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Chapeau en cuir",
+            "name_en": "Leather Cap",
+            "mat": [
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Tunique en cuir",
+            "name_en": "Leather Tunic",
+            "mat": [
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Pantalon en cuir",
+            "name_en": "Leather Pants",
+            "mat": [
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Bottes en cuir",
+            "name_en": "Leather Boots",
+            "mat": [
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Bouclier",
+            "name_en": "Shield",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 6
+                },
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Casque en cuivre",
+            "name_en": "Copper Helmet",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Plastron en cuivre",
+            "name_en": "Copper Chestplate",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Jambières en cuivre",
+            "name_en": "Copper Leggings",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Bottes en cuivre",
+            "name_en": "Copper Boots",
+            "mat": [
+                {
+                    "name": "Lingot de cuivre",
+                    "name_en": "Copper Ingot",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Casque en fer",
+            "name_en": "Iron Helmet",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Plastron en fer",
+            "name_en": "Iron Chestplate",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Jambières en fer",
+            "name_en": "Iron Leggings",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Bottes en fer",
+            "name_en": "Iron Boots",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Casque en or",
+            "name_en": "Golden Helmet",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Plastron en or",
+            "name_en": "Golden Chestplate",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Jambières en or",
+            "name_en": "Golden Leggings",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Bottes en or",
+            "name_en": "Golden Boots",
+            "mat": [
+                {
+                    "name": "Lingot d'or",
+                    "name_en": "Gold Ingot",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Casque en diamant",
+            "name_en": "Diamond Helmet",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Plastron en diamant",
+            "name_en": "Diamond Chestplate",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Jambières en diamant",
+            "name_en": "Diamond Leggings",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Bottes en diamant",
+            "name_en": "Diamond Boots",
+            "mat": [
+                {
+                    "name": "Diamant",
+                    "name_en": "Diamond",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Casque en Netherite",
+            "name_en": "Netherite Helmet",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Plastron en Netherite",
+            "name_en": "Netherite Chestplate",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Jambières en Netherite",
+            "name_en": "Netherite Leggings",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Bottes en Netherite",
+            "name_en": "Netherite Boots",
+            "mat": [
+                {
+                    "name": "Lingot de Netherite",
+                    "name_en": "Netherite Ingot",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Carapace de tortue",
+            "name_en": "Turtle Shell",
+            "mat": [
+                {
+                    "name": "Écaille de tortue",
+                    "name_en": "Turtle Scute",
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "name": "Armure en cuir pour cheval",
+            "name_en": "Leather Horse Armor",
+            "mat": [
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 7
+                }
+            ]
+        },
+        {
+            "name": "Armure pour loup",
+            "name_en": "Wolf Armor",
+            "mat": [
+                {
+                    "name": "Écaille de tatou",
+                    "name_en": "Armadillo Scute",
+                    "quantity": 6
+                }
+            ]
+        },
+        {
+            "name": "Arc",
+            "name_en": "Bow",
+            "mat": [
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 3
+                },
+                {
+                    "name": "Ficelle",
+                    "name_en": "String",
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "name": "Arbalète",
+            "name_en": "Crossbow",
+            "mat": [
+                {
+                    "name": "Lingot de fer",
+                    "name_en": "Iron Ingot",
+                    "quantity": 3
+                },
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 3
+                },
+                {
+                    "name": "Ficelle",
+                    "name_en": "String",
+                    "quantity": 2
+                },
+                {
+                    "name": "Crochet",
+                    "name_en": "Tripwire Hook",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Armure en cuivre pour nautile",
+            "name_en": "Copper Nautilus Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en fer pour nautile",
+            "name_en": "Iron Nautilus Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en or pour nautile",
+            "name_en": "Golden Nautilus Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en diamant pour nautile",
+            "name_en": "Diamond Nautilus Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en Netherite pour nautile",
+            "name_en": "Netherite Nautilus Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en cuivre pour cheval",
+            "name_en": "Copper Horse Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en fer pour cheval",
+            "name_en": "Iron Horse Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en or pour cheval",
+            "name_en": "Golden Horse Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en diamant pour cheval",
+            "name_en": "Diamond Horse Armor",
+            "available": false
+        },
+        {
+            "name": "Armure en Netherite pour cheval",
+            "name_en": "Netherite Horse Armor",
+            "available": false
+        },
+        {
+            "name": "Trident",
+            "name_en": "Trident",
+            "available": false
+        },
+        {
+            "name": "Masse",
+            "name_en": "Mace",
+            "available": false
+        }
+    ],
+    "NE_PAS_PROPOSER": [
+        {
+            "name": "Établi",
+            "name_en": "Crafting Table",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 4
+                }
+            ]
+        },
+        {
+            "name": "Dropper",
+            "name_en": "Dropper",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 7
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Coffre",
+            "name_en": "Chest",
+            "mat": [
+                {
+                    "name": "Planche",
+                    "name_en": "Planks",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Plaque de pression en pierre",
+            "name_en": "Stone Pressure Plate",
+            "mat": [
+                {
+                    "name": "Roche",
+                    "name_en": "Stone",
+                    "quantity": 2
+                }
+            ]
+        },
+        {
+            "name": "Torche de redstone",
+            "name_en": "Redstone Torch",
+            "mat": [
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Redstone",
+                    "name_en": "Redstone Dust",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Torche",
+            "name_en": "Torch",
+            "mat": [
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Charbon",
+                    "name_en": "Coal",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 4
+        },
+        {
+            "name": "Torche des âmes",
+            "name_en": "Soul Torch",
+            "mat": [
+                {
+                    "name": "Bâton",
+                    "name_en": "Stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Charbon",
+                    "name_en": "Coal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Terre des âmes",
+                    "name_en": "Soul Soil",
+                    "quantity": 1
+                }
+            ],
+            "quantity": 4
+        },
+        {
+            "name": "Fourneau",
+            "name_en": "Furnace",
+            "mat": [
+                {
+                    "name": "Pierre",
+                    "name_en": "Cobblestone",
+                    "quantity": 8
+                }
+            ]
+        },
+        {
+            "name": "Livre",
+            "name_en": "Book",
+            "mat": [
+                {
+                    "name": "Papier",
+                    "name_en": "Paper",
+                    "quantity": 3
+                },
+                {
+                    "name": "Cuir",
+                    "name_en": "Leather",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "name": "Papier",
+            "name_en": "Paper",
+            "mat": [
+                {
+                    "name": "Canne à sucre",
+                    "name_en": "Sugar Cane",
+                    "quantity": 3
+                }
+            ],
+            "quantity": 3
+        }
+    ],
+    "Correspondance": {
+        "Lingot de Netherite": 9,
+        "Fragment de Netherite": 36,
+        "Diamant": 72,
+        "Lingot d'or": 288,
+        "Pépite d'or": 2592,
+        "Lingot de fer": 576,
+        "Pépite de fer": 5184,
+        "Bloc de fer": 64,
+        "Émeraude": 432,
+        "Lingot de cuivre": 1152,
+        "Pépite de cuivre": 10368,
+        "Bloc de cuivre": 128,
+        "Écaille de tortue": 1728,
+        "Écaille de tatou": 864
+    }
+}
