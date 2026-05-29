@@ -64,9 +64,7 @@ Promise.all([
         const processCategory = (arr, categoryType) => {
             if (arr) {
                 arr.forEach(item => {
-                    if (categoryType === 'trim' || item.available !== false) {
-                        allItems.push({ ...item, type: categoryType });
-                    }
+                    allItems.push({ ...item, type: categoryType });
                 });
             }
         };
@@ -194,16 +192,26 @@ function renderDropdown() {
 
     allItems.forEach(item => {
         const div = document.createElement('div');
-        div.className = 'option-item';
         const displayName = currentLang === 'fr' ? item.name : (item.name_en || item.name);
-        div.textContent = displayName;
+        
         div.setAttribute('data-type', item.type);
-        div.addEventListener('click', () => {
-            selectedItem = item;
-            itemInput.value = displayName;
-            optionsContainer.style.display = 'none';
-            calculateTotal();
-        });
+
+        if (item.available === false) {
+            div.className = 'option-item unavailable';
+            const badgeText = uiTexts[currentLang].unavailable || "Indisponible";
+            div.innerHTML = `${displayName} <span class="status-badge">${badgeText}</span>`;
+        } else {
+            div.className = 'option-item';
+            div.textContent = displayName;
+            
+            div.addEventListener('click', () => {
+                selectedItem = item;
+                itemInput.value = displayName;
+                optionsContainer.style.display = 'none';
+                calculateTotal();
+            });
+        }
+        
         optionsContainer.appendChild(div);
     });
 }
@@ -252,28 +260,58 @@ function filterOptions() {
     });
 }
 
-function formatOres(amount) {
+function formatOres(amount, type = null) {
     if (amount === 0) return uiTexts[currentLang].nothing;
     let result = [];
     let remaining = amount;
 
-    for (let ore of sortedOres) {
-        if (remaining >= ore.val) {
-            let qty = Math.floor(remaining / ore.val);
-            result.push(`<b>${qty}x ${getOreName(ore.name)}</b>`);
-            remaining %= ore.val;
+    if (type === 'livre') {
+        let emeraldsQty = Math.round(remaining / conversion["Émeraude"]);
+        if (emeraldsQty > 0) {
+            result.push(`<b>${emeraldsQty}x ${getOreName("Émeraude")}</b>`);
+        }
+    } else if (type === 'trim') {
+        if (remaining >= conversion["Diamant"]) {
+            let diamQty = Math.floor(remaining / conversion["Diamant"]);
+            result.push(`<b>${diamQty}x ${getOreName("Diamant")}</b>`);
+            remaining %= conversion["Diamant"];
+        }
+        if (remaining > 0) {
+            let emerQty = Math.round(remaining / conversion["Émeraude"]);
+            if (emerQty > 0) {
+                result.push(`<b>${emerQty}x ${getOreName("Émeraude")}</b>`);
+            }
+        }
+    } else {
+        for (let ore of sortedOres) {
+            if (remaining >= ore.val) {
+                let qty = Math.floor(remaining / ore.val);
+                result.push(`<b>${qty}x ${getOreName(ore.name)}</b>`);
+                remaining %= ore.val;
+            }
         }
     }
+
     return result.join("<br>");
 }
 
 function updateInputRestrictions() {
     const isLivre = selectedItem && selectedItem.type === 'livre';
+    const isTrim = selectedItem && selectedItem.type === 'trim';
+
     document.querySelectorAll('.pay-input').forEach(input => {
         const ore = input.getAttribute('data-ore');
         const container = input.closest('.ore-input');
+        let shouldDisable = false;
 
         if (isLivre && ore !== "Émeraude") {
+            shouldDisable = true;
+        } 
+        else if (isTrim && ore !== "Diamant" && ore !== "Émeraude") {
+            shouldDisable = true;
+        }
+
+        if (shouldDisable) {
             input.value = "0";
             input.disabled = true;
             if (container) {
@@ -358,13 +396,14 @@ function calculateTotal() {
                 details.innerHTML += `<li>${uiTexts[lang].resourceCost} ${m.quantity}x ${matName}</li>`;
             }
         });
+        
         const laborText = uiTexts[lang].laborTrim;
         details.innerHTML += `<li><strong>${laborText}</strong></li>`;
         priceContainer.style.display = 'none';
     }
 
     currentTotalRequired = totalValue;
-    document.getElementById('total-readable').innerHTML = formatOres(totalValue);
+    document.getElementById('total-readable').innerHTML = formatOres(totalValue, selectedItem.type);
 
     updateInputRestrictions();
     updatePayment();
@@ -389,17 +428,7 @@ function updatePayment() {
     if (diff === 0) {
         paymentStatus.innerHTML = `<span class="good">${uiTexts[lang].exactChange}</span>`;
     } else {
-        let formattedDiff = "";
-        
-        if (selectedItem && selectedItem.type === 'livre') {
-            let emeraldsQty = Math.abs(diff) / conversion["Émeraude"];
-            formattedDiff = `<b>${emeraldsQty}x ${getOreName("Émeraude")}</b>`;
-        } else if (selectedItem && selectedItem.type === 'trim') {
-            let diamandsQty = Math.abs(diff) / conversion["Diamant"];
-            formattedDiff = `<b>${diamandsQty}x ${getOreName("Diamant")}</b>`;
-        } else {
-            formattedDiff = formatOres(Math.abs(diff));
-        }
+        const formattedDiff = formatOres(Math.abs(diff), selectedItem ? selectedItem.type : null);
 
         if (diff > 0) {
             paymentStatus.innerHTML = `<span class="good">${uiTexts[lang].generous}<br>${formattedDiff}</span>`;
